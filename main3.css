@@ -1,0 +1,20 @@
+body {
+	background: #00CED1;
+	font-family:Bernard MT Condensed;
+
+}
+h1 {
+	color: #800080;
+}
+.titol_principal{
+	color: #FF00FF;
+	font-family: algerian
+}
+table, th, td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+.invisible{
+	border: 0;
+}
